@@ -1,0 +1,1 @@
+Bu dosyada Türkçe karakterler var: ç, ş, ğ, ü, ö, ı

@@ -1,0 +1,1 @@
+Bu tamamen standart bir metin dosyasidir. Sadece Ingilizce karakterler icerir.

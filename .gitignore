@@ -1,0 +1,26 @@
+# C/C++ Derleme Çıktıları
+*.o
+*.out
+*.exe
+tarsau
+soru1
+soru2
+
+# Arşivleme Uygulaması Çıktıları
+*.sau
+
+# Test Klasörleri ve Geçici Dosyalar
+yeni_klasor/
+test_dizini/
+izin_dizini/
+cikti_dizini/
+gecici_test/
+sayi_test/
+test_extract/
+*_extract_src.txt
+
+# İşletim Sistemi Geçici Dosyaları
+.DS_Store
+Thumbs.db
+*.swp
+*~
